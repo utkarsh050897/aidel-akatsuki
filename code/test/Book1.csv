@@ -1,0 +1,14 @@
+﻿Transaction ID,Payer Name,Entity Type (Payer),Receiver Name,Entity Type (Receiver),Transaction Details,Transaction Amount Threshold,Transaction Frequency,Jurisdiction Risk,Shell Company Detection,Beneficial Ownership Transparency,Sanctions & Watchlist Screening,Round-Number Transactions,Politically Exposed Persons (PEP) Involvement,Unusual Transaction Timing,Industry-Specific Risk Factors
+abc,James Hardie Industries,Corporation,Azek Company,Corporation,Acquisition of Azek,5,4,3,6,3,4,8,2,4,8
+def,Google (Alphabet Inc.),Corporation,Wiz,Private Company,Acquisition of cloud security startup,3,8,5,6,2,6,8,3,8,4
+ghi,Ecovyst,Corporation,Cornerstone Chemical Co.,Corporation,Acquisition of sulfuric acid production assets,1,8,3,9,3,2,2,5,3,6
+jkl,Synopsys,Corporation,Ansys,Corporation,Acquisition to enhance engineering simulation tools,7,5,2,4,6,1,9,1,9,8
+mno,HPE,Corporation,Juniper Networks,Corporation,Acquisition to bolster networking capabilities,7,2,5,7,9,4,2,4,7,7
+pqr,Travis Scott,Celebrity,McDonald's,Corporation,"Collaboration on ""Travis Scott Meal"" promotion",7,8,4,8,5,2,3,2,6,7
+stu,Zendaya,Celebrity,LancÃ´me,Corporation,Endorsement as global ambassador,1,8,9,7,3,1,9,7,3,7
+vnhtfg,Taylor Swift,Celebrity,Diet Coke,Corporation,Long-term endorsement deal,4,8,1,2,8,1,7,6,1,2
+rfsr,George Clooney,Celebrity,Nespresso,Corporation,Endorsement and stake in coffee brand,1,8,8,4,1,3,5,4,5,7
+df,Charlize Theron,Celebrity,Dior,Corporation,Endorsement deal for J'adore fragrance,9,2,1,5,3,5,2,9,7,6
+fvrdzs,NCAA,Sports Association,Student-Athletes,Individuals,Lifting of NIL recruitment ban,5,1,9,5,8,8,7,2,6,5
+fdr,Cedar Fair,Corporation,Six Flags Entertainment,Corporation,Merger to form largest amusement park company,1,2,9,7,5,1,8,4,9,5
+grdsz,Allianz,Corporation,Indian Joint Ventures,Multiple Companies,Sale of 26% stakes in Indian ventures,3,2,4,4,9,4,9,9,5,9
