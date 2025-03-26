@@ -1,0 +1,101 @@
+Transaction ID,Payer Name,Entity Type (Payer),Receiver Name,Entity Type (Receiver),Transaction Details,Transaction Amount Threshold,Transaction Frequency,Jurisdiction Risk,Shell Company Detection,Beneficial Ownership Transparency,Sanctions & Watchlist Screening,Round-Number Transactions,Politically Exposed Persons (PEP) Involvement,Unusual Transaction Timing,Industry-Specific Risk Factors,Risk Score
+TXN3001,James Hardie Industries,Corporation,Azek Company,Corporation,Acquisition of Azek,5,4,3,6,3,4,8,2,4,8,17
+TXN3002,Google (Alphabet Inc.),Corporation,Wiz,Private Company,Acquisition of cloud security startup,3,8,5,6,2,6,8,3,8,4,21
+TXN3003,Ecovyst,Corporation,Cornerstone Chemical Co.,Corporation,Acquisition of sulfuric acid production assets,1,8,3,9,3,2,2,5,3,6,15
+TXN3004,Synopsys,Corporation,Ansys,Corporation,Acquisition to enhance engineering simulation tools,7,5,2,4,6,1,9,1,9,8,22
+TXN3005,HPE,Corporation,Juniper Networks,Corporation,Acquisition to bolster networking capabilities,7,2,5,7,9,4,2,4,7,7,18
+TXN4001,Travis Scott,Celebrity,McDonald's,Corporation,"Collaboration on ""Travis Scott Meal"" promotion",7,8,4,8,5,2,3,2,6,7,18
+TXN4002,Zendaya,Celebrity,Lancôme,Corporation,Endorsement as global ambassador,1,8,9,7,3,1,9,7,3,7,21
+TXN4003,Taylor Swift,Celebrity,Diet Coke,Corporation,Long-term endorsement deal,4,8,1,2,8,1,7,6,1,2,15
+TXN4004,George Clooney,Celebrity,Nespresso,Corporation,Endorsement and stake in coffee brand,1,8,8,4,1,3,5,4,5,7,17
+TXN4005,Charlize Theron,Celebrity,Dior,Corporation,Endorsement deal for J'adore fragrance,9,2,1,5,3,5,2,9,7,6,17
+TXN5001,NCAA,Sports Association,Student-Athletes,Individuals,Lifting of NIL recruitment ban,5,1,9,5,8,8,7,2,6,5,22
+TXN5002,Cedar Fair,Corporation,Six Flags Entertainment,Corporation,Merger to form largest amusement park company,1,2,9,7,5,1,8,4,9,5,21
+TXN5003,Allianz,Corporation,Indian Joint Ventures,Multiple Companies,Sale of 26% stakes in Indian ventures,3,2,4,4,9,4,9,9,5,9,24
+TXN5004,Blackstone Group,Private Equity Firm,Civica,Corporation,Acquisition of UK-based software company,1,8,9,2,6,6,9,4,2,6,21
+TXN5005,Paramount Global,Corporation,Skydance Media,Corporation,Proposed merger under regulatory review,8,7,8,6,2,6,6,9,8,6,28
+TXN6001,Microsoft,Corporation,GitHub,Private Company,Acquisition of code repository platform,6,7,4,3,2,5,7,3,4,5,14
+TXN6002,Nike,Corporation,Michael Jordan,Celebrity,Endorsement deal for Air Jordan line,2,9,2,8,6,3,4,5,2,4,16
+TXN6003,Amazon,Corporation,Whole Foods,Corporation,Acquisition of grocery chain,7,3,5,5,7,2,8,2,5,3,15
+TXN6004,Elon Musk,Individual,Twitter,Corporation,Acquisition of social media platform,9,10,7,8,4,8,9,8,10,9,40
+TXN6005,Adidas,Corporation,Beyoncé,Celebrity,Partnership for Ivy Park clothing line,3,6,4,7,5,4,5,4,3,6,14
+TXN6006,Tesla,Corporation,SolarCity,Corporation,Merger for renewable energy expansion,8,5,6,9,3,7,8,5,7,8,27
+TXN6007,Apple,Corporation,Beats by Dre,Private Company,Acquisition of audio products company,4,5,3,4,8,2,6,3,4,5,15
+TXN6008,LeBron James,Celebrity,Blaze Pizza,Corporation,Investment in pizza chain franchise,5,8,2,6,7,3,7,2,8,4,19
+TXN6009,Walmart,Corporation,Flipkart,Corporation,Acquisition of e-commerce platform,2,7,6,5,9,5,3,6,5,7,19
+TXN6010,Coca-Cola,Corporation,Monster Beverage,Corporation,Stake acquisition in energy drink company,6,4,3,3,2,4,5,3,6,5,12
+TXN6011,Disney,Corporation,21st Century Fox,Corporation,Entertainment assets acquisition,10,9,8,7,6,9,10,7,9,8,39
+TXN6012,Rihanna,Celebrity,Savage X Fenty,Private Company,Investment in lingerie brand,4,7,5,4,6,2,8,3,7,6,18
+TXN6013,Pfizer,Corporation,BioNTech,Corporation,COVID-19 vaccine partnership,7,6,4,5,8,3,9,4,5,6,21
+TXN6014,Netflix,Corporation,Stranger Things Creators,Multiple Companies,Content production deal,3,8,2,2,7,1,4,2,3,4,11
+TXN6015,Sony,Corporation,Crunchyroll,Corporation,Acquisition of anime streaming service,5,5,3,6,4,5,7,3,4,5,14
+TXN6016,Dwayne Johnson,Celebrity,Under Armour,Corporation,Endorsement for athletic wear line,2,9,1,7,5,4,6,2,8,3,18
+TXN6017,Verizon,Corporation,Yahoo,Corporation,Acquisition of web services,4,6,5,8,3,6,5,5,6,7,19
+TXN6018,SpaceX,Private Company,NASA,Government,Space exploration contracts,8,7,9,10,7,8,9,9,10,10,42
+TXN6019,LVMH,Corporation,Tiffany & Co.,Corporation,Luxury goods acquisition,9,8,7,6,5,7,8,6,7,9,29
+TXN6020,Kim Kardashian,Celebrity,SKIMS,Private Company,Shapewear brand launch,5,7,3,5,4,2,7,3,5,6,14
+TXN6021,Intel,Corporation,Altera,Corporation,Acquisition of semiconductor firm,6,4,5,4,6,5,6,4,5,5,15
+TXN6022,Red Bull,Corporation,F1 Racing Team,Sports Association,Sponsorship and ownership stake,7,8,6,5,3,4,8,5,7,8,23
+TXN6023,Goldman Sachs,Corporation,Apple Card,Corporation,Credit card partnership,3,5,4,3,9,2,5,4,3,4,13
+TXN6024,Oprah Winfrey,Celebrity,WeightWatchers,Corporation,Endorsement and equity stake,8,6,2,4,7,3,6,2,4,5,16
+TXN6025,Starbucks,Corporation,PepsiCo,Corporation,Bottled beverages distribution deal,2,5,3,2,8,4,3,3,2,3,11
+TXN6026,BMW,Corporation,BMW i Ventures,Private Company,Investment in electric vehicles,4,6,5,7,5,6,7,5,6,7,19
+TXN6027,Bill Gates,Individual,TerraPower,Private Company,Nuclear energy startup funding,9,4,8,9,6,7,10,8,9,10,40
+TXN6028,Spotify,Corporation,Joe Rogan Experience,Private Company,Exclusive podcast deal,5,9,3,8,2,5,9,3,7,6,21
+TXN6029,Warner Bros,Corporation,DC Comics,Corporation,Media rights acquisition,7,6,4,5,3,4,6,4,5,6,15
+TXN6030,Rolex,Corporation,Formula 1,Sports Association,Sponsorship deal,6,8,7,6,4,5,8,6,7,8,24
+TXN6031,Adobe,Corporation,Figma,Private Company,Design software acquisition,10,9,8,7,5,9,10,7,8,9,38
+TXN6032,Lionel Messi,Celebrity,PSG,Sports Association,Football club endorsement,8,7,5,9,3,6,7,5,8,7,25
+TXN6033,Samsung,Corporation,Harman,Corporation,Acquisition of audio technology,5,5,4,3,7,4,5,4,5,6,15
+TXN6034,LinkedIn,Corporation,Microsoft,Corporation,Professional network acquisition,6,5,3,4,8,3,6,3,4,5,15
+TXN6035,Dell,Corporation,EMC,Corporation,Data storage merger,7,6,5,8,4,7,8,5,6,7,23
+TXN6036,Siemens,Corporation,AVEVA,Corporation,Industrial software acquisition,6,5,4,5,7,3,7,2,5,6,15
+TXN6037,Leonardo DiCaprio,Celebrity,Patagonia,Corporation,Environmental sustainability partnership,3,7,2,3,8,1,4,1,3,3,11
+TXN6038,General Electric,Corporation,LM Wind Power,Corporation,Renewable energy subsidiary purchase,5,6,3,6,5,4,5,3,4,5,14
+TXN6039,Mark Zuckerberg,Individual,CureVac,Private Company,Biotech research funding,9,8,7,8,2,7,9,7,8,9,33
+TXN6040,Puma,Corporation,Neymar Jr.,Celebrity,Football boot endorsement deal,4,9,1,5,6,2,6,2,7,4,15
+TXN6041,Boeing,Corporation,Embraer,Corporation,Joint venture for commercial jets,8,7,9,7,4,8,8,9,9,8,37
+TXN6042,Adele,Celebrity,Sony Music,Corporation,Album distribution rights deal,2,6,3,2,9,1,3,1,2,2,10
+TXN6043,Raytheon,Corporation,United Technologies,Corporation,Defense sector merger,10,9,8,9,3,9,10,8,10,10,43
+TXN6044,Virgin Group,Corporation,Hyperloop One,Private Company,High-speed transit investment,7,8,5,6,5,5,7,5,6,7,20
+TXN6045,Serena Williams,Celebrity,Wilson Sporting Goods,Corporation,Tennis equipment collaboration,5,4,2,4,7,3,5,2,4,5,12
+TXN6046,Lockheed Martin,Corporation,Aerojet Rocketdyne,Corporation,Missile systems acquisition,9,8,10,8,2,9,9,10,9,10,42
+TXN6047,IBM,Corporation,Red Hat,Private Company,Open-source software acquisition,6,7,4,5,6,4,7,4,5,6,17
+TXN6048,Justin Bieber,Celebrity,Calvin Klein,Corporation,Underwear line endorsement,3,8,1,3,5,1,8,1,6,3,14
+TXN6049,Toyota,Corporation,Panasonic,Corporation,Electric vehicle battery JV,7,5,3,6,8,2,6,3,5,4,16
+TXN6050,Novartis,Corporation,The Medicines Company,Corporation,Cardiovascular drug acquisition,8,6,5,7,4,6,8,5,7,7,23
+TXN6051,Post Malone,Celebrity,Bud Light,Corporation,Music festival sponsorship,4,9,2,4,3,2,9,2,8,5,21
+TXN6052,Qualcomm,Corporation,Nuvia,Private Company,Chip design startup purchase,5,7,6,5,9,5,7,6,7,6,21
+TXN6053,Gucci,Corporation,Balenciaga,Corporation,Luxury brand collaboration,6,8,4,7,2,4,8,4,6,8,22
+TXN6054,Elton John,Celebrity,Rocket Entertainment,Private Company,Music catalog investment,5,5,3,2,7,3,5,3,4,4,12
+TXN6055,FedEx,Corporation,TNT Express,Corporation,Logistics network merger,7,6,4,8,5,7,7,4,6,5,20
+TXN6056,Oracle,Corporation,Cerner,Corporation,Health IT acquisition,6,5,3,5,6,4,6,3,5,4,14
+TXN6057,Cardi B,Celebrity,Reebok,Corporation,Sneaker collection launch,3,7,1,3,4,1,7,1,5,3,10
+TXN6058,BP,Corporation,Equinor,Corporation,Offshore wind farm partnership,8,7,7,9,3,8,8,7,8,9,33
+TXN6059,Selena Gomez,Celebrity,Rare Beauty,Private Company,Cosmetics brand expansion,4,6,2,4,6,2,6,2,4,5,12
+TXN6060,AT&T,Corporation,Time Warner,Corporation,Media conglomerate merger,9,9,8,7,5,9,9,8,9,8,39
+TXN6061,Sheryl Sandberg,Individual,Lean In Foundation,Non-Profit,Leadership initiative funding,2,4,1,1,9,1,2,1,1,1,8
+TXN6062,SpaceX,Private Company,Starlink,Corporation,Satellite internet division spin-off,10,10,9,10,4,9,10,9,10,10,45
+TXN6063,Usain Bolt,Celebrity,Puma,Corporation,Retro sneaker line relaunch,5,7,3,5,6,3,7,3,5,6,15
+TXN6064,GlaxoSmithKline,Corporation,Pfizer Consumer Health,Corporation,Pharma consumer division sale,7,6,5,6,7,5,7,5,6,7,19
+TXN6065,Lady Gaga,Celebrity,Haus Laboratories,Private Company,Beauty brand acquisition,6,5,2,3,8,2,5,2,3,4,13
+TXN6066,Deutsche Bank,Corporation,Postbank,Corporation,Retail banking unit divestment,5,4,6,5,8,6,5,6,5,7,19
+TXN6067,Dua Lipa,Celebrity,Pepe Jeans,Corporation,Denim campaign partnership,3,8,1,2,5,1,8,1,7,3,14
+TXN6068,TikTok,Private Company,Universal Music Group,Corporation,Music streaming rights deal,8,9,7,8,3,7,8,7,9,8,33
+TXN6069,Volkswagen,Corporation,QuantumScape,Private Company,Solid-state battery investment,9,7,6,7,5,6,9,6,7,9,28
+TXN6070,Ryan Reynolds,Celebrity,Aviation Gin,Corporation,Spirits brand exit sale,7,5,4,6,9,4,6,4,5,5,19
+TXN6071,Maersk,Corporation,Logistics startups,Multiple Companies,Supply chain innovation fund,4,5,3,4,7,3,5,3,4,4,13
+TXN6072,BTS,Celebrity,Hyundai,Corporation,EV concept car campaign,8,10,5,9,2,5,10,5,10,8,33
+TXN6073,Roche,Corporation,Spark Therapeutics,Corporation,Gene therapy acquisition,6,7,4,5,8,4,7,4,6,6,19
+TXN6074,Tom Brady,Celebrity,FTX Crypto,Corporation,Brand ambassador deal termination,9,3,8,9,1,8,9,8,3,9,31
+TXN6075,Intel,Corporation,Mobileye,Corporation,Autonomous driving unit IPO,8,6,5,7,6,5,8,5,6,7,23
+TXN6076,Jennifer Lopez,Celebrity,Versace,Corporation,Fashion line relaunch,5,7,3,4,6,3,7,3,5,6,14
+TXN6077,Siemens Healthineers,Corporation,Varian Medical Systems,Corporation,Cancer treatment tech buyout,7,6,4,6,7,4,7,4,6,5,18
+TXN6078,The Weeknd,Celebrity,Starbucks,Corporation,Holiday cup design collab,2,8,1,1,8,1,2,1,1,1,10
+TXN6079,SoftBank,Corporation,ARM Holdings,Corporation,Semiconductor IPO preparation,10,9,9,10,3,9,10,9,9,10,44
+TXN6080,Ariana Grande,Celebrity,Givenchy,Corporation,Perfume line endorsement,4,9,2,3,5,2,9,2,7,4,17
+TXN6081,ExxonMobil,Corporation,Carbon Capture Tech Startups,Multiple Companies,Climate initiative funding,3,5,4,3,9,4,5,4,5,5,16
+TXN6082,Ed Sheeran,Celebrity,Notting Hill Music,Private Company,Music rights acquisition,6,4,3,5,7,3,6,3,4,5,13
+TXN6083,Tesla,Corporation,Lithium Mines,Multiple Companies,Raw material supply deals,9,8,7,8,2,7,9,7,8,9,33
+TXN6084,Billie Eilish,Celebrity,Gucci,Corporation,Sustainable fashion campaign,3,7,2,2,8,2,3,2,2,3,10
+TXN6085,Nestlé,Corporation,Blue Bottle Coffee,Private Company,Premium coffee chain buyout,5,6,4,5,7,4,6,4,5,6,16
